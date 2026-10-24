@@ -18,10 +18,7 @@ no cloud API keys, no telemetry, no data ever leaves your machine.**
 
 ## 📸 Preview
 
-> *Screenshot / GIF of the AURA dark UI and animated penguin mascot thinking loop goes here.*  
-> *(Place a `docs/aura_preview.gif` or `docs/aura_screenshot.png` and uncomment the line below)*
-
-<!-- ![AURA UI Preview](docs/aura_preview.gif) -->
+![AURA UI Preview](docs/Screenshot%202026-10-24%20212621.png)
 
 ---
 
